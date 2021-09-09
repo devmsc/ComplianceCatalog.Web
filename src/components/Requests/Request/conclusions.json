@@ -1,0 +1,23 @@
+{
+  "requirements": [
+    {
+      "type": "FATCA/CRS",
+      "conclusions": [
+        {
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis, quos."
+        },
+        {
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis, quos."
+        }
+      ]
+    },
+    {
+      "type": "Идентификация",
+      "conclusions": [
+        {
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores error quasi voluptatem?"
+        }
+      ]
+    }
+  ]
+}

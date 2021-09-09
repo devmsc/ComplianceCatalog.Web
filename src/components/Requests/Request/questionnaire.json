@@ -1,0 +1,70 @@
+[
+  {
+    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci ea odit pariatur reiciendis rem voluptates?",
+    "triggers": [
+      "Физическое лицо",
+      "Юридическое лицо",
+      "Индивидуальный предприниматель"
+    ]
+  },
+  {
+    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad ipsum libero vel.",
+    "triggers": [
+      "Да"
+    ]
+  },
+  {
+    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet autem eligendi facilis illum laboriosam laborum non omnis qui reprehenderit suscipit.",
+    "triggers": [
+      "Новый",
+      "Существующий"
+    ]
+  },
+  {
+    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "triggers": [
+      "Возможно",
+      "Не знаю"
+    ]
+  },
+  {
+    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quo saepe temporibus vitae voluptates?",
+    "triggers": [
+      "Заявка"
+    ]
+  },
+  {
+    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci ea odit pariatur reiciendis rem voluptates?",
+    "triggers": [
+      "Физическое лицо",
+      "Юридическое лицо",
+      "Индивидуальный предприниматель"
+    ]
+  },
+  {
+    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad ipsum libero vel.",
+    "triggers": [
+      "Да"
+    ]
+  },
+  {
+    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet autem eligendi facilis illum laboriosam laborum non omnis qui reprehenderit suscipit.",
+    "triggers": [
+      "Новый",
+      "Существующий"
+    ]
+  },
+  {
+    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "triggers": [
+      "Возможно",
+      "Не знаю"
+    ]
+  },
+  {
+    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quo saepe temporibus vitae voluptates?",
+    "triggers": [
+      "Заявка"
+    ]
+  }
+]
